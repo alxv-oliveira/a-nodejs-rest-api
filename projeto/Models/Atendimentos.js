@@ -42,6 +42,10 @@ class Atendimento {
             });
         }
 
+        teste() {
+            
+        }
+
     }
 
     lista(res) {
